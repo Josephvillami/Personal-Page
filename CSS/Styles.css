@@ -1,0 +1,32 @@
+h1	{
+		line-height: 200px;
+}
+.avatar{
+	width:200px;
+	height: 200px;
+	border-radius: 200px;
+	float:left;
+
+}
+.profile{height: 200px;
+ }
+.resume{
+	background-color: rgba(0,0,0,0.6);
+	width: 800px;
+	margin:0 auto;
+	padding: 50px;
+
+}
+body{
+	background-image: url(http://consumer.media.seagate.com/files/2014/03/Bahamas-White-Sandy-Beach-.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #ffffff;
+
+}
+footer p{
+	text-align: center;
+}
+.heart{
+	color: #ff0000;
+}
